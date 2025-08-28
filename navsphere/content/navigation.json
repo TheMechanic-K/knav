@@ -38,14 +38,6 @@
           "enabled": true
         },
         {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
           "id": "site_1756362758371_7uftdjfgq",
           "title": "红蓝队培训考核平台(CTF)",
           "href": "http://ctf.r0ck.top",
@@ -288,6 +280,14 @@
               "href": "https://excalidraw.com/",
               "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
               "icon": "/assets/img_1736922499401.png",
+              "enabled": true
+            },
+            {
+              "id": "1735119857233",
+              "title": "截图美化工具",
+              "href": "https://shots.so/",
+              "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
+              "icon": "/assets/images/logos/shots.webp",
               "enabled": true
             }
           ]
