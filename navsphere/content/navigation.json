@@ -92,6 +92,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1756362758371_7uftdjfgq",
+          "title": "红蓝队培训考核平台(CTF)",
+          "href": "http://ctf.r0ck.top",
+          "description": "",
+          "icon": "/assets/favicon_1756362744357.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
