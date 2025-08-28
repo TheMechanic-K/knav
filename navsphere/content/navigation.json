@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1756362758371_7uftdjfgq",
           "title": "红蓝队培训考核平台(CTF)",
           "href": "http://ctf.r0ck.top",
