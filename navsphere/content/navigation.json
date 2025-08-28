@@ -9,7 +9,7 @@
           "id": "site_1756362758371_7uftdjfgq",
           "title": "红蓝队培训考核平台(CTF)",
           "href": "http://ctf.r0ck.top",
-          "description": "",
+          "description": "红蓝队日常考核平台",
           "icon": "/assets/favicon_1756362744357.ico",
           "enabled": true
         },
@@ -17,7 +17,7 @@
           "id": "site_1756362956828_dhwod2qk5",
           "title": "GTools授权",
           "href": "http://license.r0ck.top/",
-          "description": "",
+          "description": "GTools工具License授权",
           "icon": "/assets/img_1756362933949.png",
           "enabled": true
         }
