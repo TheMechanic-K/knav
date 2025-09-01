@@ -20,6 +20,14 @@
           "description": "GTools工具License授权",
           "icon": "/assets/img_1756362933949.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756708570896_dl7yn21s2",
+          "title": "课堂笔记",
+          "href": "http://wiki.r0ck.top/",
+          "description": "写作与分享 Markdown 的最佳平台。",
+          "icon": "/assets/favicon_1756708548785.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
