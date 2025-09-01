@@ -36,6 +36,14 @@
           "description": "百度云网盘",
           "icon": "/assets/favicon_1756709322797.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756710484001_qypkszf2h",
+          "title": "专业方向调查",
+          "href": "https://www.wjx.cn/vm/OWYrcJi.aspx",
+          "description": "初级班专业方向小调查",
+          "icon": "/assets/favicon_1756710429300.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
