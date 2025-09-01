@@ -28,6 +28,14 @@
           "description": "写作与分享 Markdown 的最佳平台。",
           "icon": "/assets/favicon_1756708548785.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756709345200_hz72jbjc4",
+          "title": "课程录屏",
+          "href": "https://pan.baidu.com/s/1AQ2jX1gVry92sTBu24NVfQ?pwd=bdsi",
+          "description": "百度云网盘",
+          "icon": "/assets/favicon_1756709322797.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
