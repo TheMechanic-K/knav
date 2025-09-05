@@ -44,6 +44,14 @@
           "description": "初级班专业方向小调查",
           "icon": "/assets/favicon_1756710429300.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757054184554_xj0uoj7y5",
+          "title": "课程软件",
+          "href": "https://pan.baidu.com/s/1vLvx1_nFaF3gGUE3EaOndg?pwd=1234 ",
+          "description": "课程用到的软件分享",
+          "icon": "/assets/favicon_1757054157742.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
